@@ -12,7 +12,7 @@ void CheckArmstrong(int number){
     temp = number;
     while(temp != 0){
         rem = temp%10;
-        value += rem^noofdigit;
+        value += pow(rem,noofdigit);
         temp = temp/10;
     }
     if(value == number){
