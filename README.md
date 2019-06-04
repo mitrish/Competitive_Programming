@@ -18,6 +18,6 @@ This repository contains all the solutions to problems that i have solved on var
 # Contribution Guide
 
 :fork_and_knife: and :star: the repository. Forking is a good first step in contributing to any repository. Open a pull request with your solution. The maintainer will verify and merge the patch to the master branch.
-Look for issues in the `issues` tab. Comment on the issue you want to chose, the repo maintainer will assign the issue to you.
+Look for [issues](https://github.com/mitrish/Competitive_Programming/issues) in the `issues` tab. Comment on the issue you want to chose, the repo maintainer will assign the issue to you.
 For beginners look for `good first issue` label and chose them.
 Open an issue to highlight a change you want in the repo.
