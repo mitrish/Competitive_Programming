@@ -1,0 +1,2 @@
+This folder contains the solution to the problem from the codechef certification resources.
+[Here is the link to all the resources and problems](https://www.codechef.com/certification/data-structures-and-algorithms/prepare#foundation)
