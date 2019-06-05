@@ -3,9 +3,9 @@ This repository contains all the solutions to problems that i have solved on var
 
 - [x] Arrays
 - [x] Searching + Sorting
-- [ ] Character Arrays
-- [ ] Pointers
-- [ ] Dynamic Allocation
+- [x] Character Arrays
+- [x] Pointers
+- [x] Dynamic Allocation
 - [ ] Recursion
 - [ ] Linked List
 - [ ] Stack + Queues
