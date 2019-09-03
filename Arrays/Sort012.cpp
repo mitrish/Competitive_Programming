@@ -14,7 +14,7 @@ void Sort012(int N, int * arr){
     int high = N -1;
     while(mid <= high){
         switch(arr[mid]){
-            case 0: swap(&arr[low++], &arr[mid--]);
+            case 0: swap(&arr[low++], &arr[mid++]);
                     break;
             case 1: mid++;
                     break;
