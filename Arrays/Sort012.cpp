@@ -10,15 +10,15 @@ void swap(int * a, int * b){
 
 void Sort012(int N, int * arr){
     
-    int low, mid = 0;
+    int low = 0, mid = 0;
     int high = N -1;
     while(mid <= high){
         switch(arr[mid]){
             case 0: swap(&arr[low++], &arr[mid--]);
                     break;
-            case 1: swap(&arr[mid++]);
+            case 1: mid++;
                     break;
-            case 2: swap(&arr[mid], &arr[high--])
+            case 2: swap(&arr[mid], &arr[high--]);
                     break;
         }
     }
